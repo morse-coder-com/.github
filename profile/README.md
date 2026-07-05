@@ -11,11 +11,11 @@ Morse Coder is a browser-based Morse workspace for translating, playing, decodin
 
 ## Official Resources
 
-- Website: [morse-coder.com](https://morse-coder.com)
+- Website: [Morse Coder Morse code translator and decoder](https://morse-coder.com)
 - Public repository: [morse-coder-com/morse-coder](https://github.com/morse-coder-com/morse-coder)
-- Feedback and issues: [github.com/morse-coder-com/morse-coder/issues](https://github.com/morse-coder-com/morse-coder/issues)
+- Feedback and issues: [Morse Coder public feedback on GitHub](https://github.com/morse-coder-com/morse-coder/issues)
 - Roadmap: [ROADMAP.md](https://github.com/morse-coder-com/morse-coder/blob/main/ROADMAP.md)
-- Support: contact@gencoloring.ai
+- Support: support@morse-coder.com
 
 ## Product Areas
 
